@@ -5,6 +5,7 @@
     "string.h": "c",
     "stdlib.h": "c",
     "ctype.h": "c",
-    "unity.h": "c"
+    "unity.h": "c",
+    "meetup.h": "c"
   }
 }
